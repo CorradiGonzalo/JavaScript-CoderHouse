@@ -26,3 +26,4 @@ if (cantidadComprada > 100) {
   console.log("Lamentablemente no obtuviste descuento")
 }
 console.log("Fin del calculo")
+
